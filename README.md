@@ -1,4 +1,4 @@
-# Overview
+# Introduction
 The application SafarNama - Explore Countries is a web-based platform designed to provide users with comprehensive information about countries worldwide. The project utilizes the REST Countries API and incorporates a color theme switcher to enhance user experience.
 
 ## Table of contents
