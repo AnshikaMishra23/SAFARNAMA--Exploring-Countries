@@ -35,10 +35,7 @@ Users should be able to:
 ![](./ss3.PNG)
 ![](./ss4.PNG)
 
-### Links
 
--   Solution URL: [Front End mentor solution](https://www.frontendmentor.io/solutions/responsive-rest-countries-with-react-_q43qrpmiW)
--   Live Site URL: [https://rest-countries-fm.web.app/](https://rest-countries-fm.web.app/)
 
 ## My process
 
@@ -64,10 +61,7 @@ Users should be able to:
 
 -   react DOCS
 
-## Author
 
--   Website - [Aryan Sethi](https://github.com/Aryan-ki-codepanti)
--   Frontend Mentor - [@Aryan Sethi](https://www.frontendmentor.io/profile/Aryan-ki-codepanti)
 
 ## Acknowledgments
 
